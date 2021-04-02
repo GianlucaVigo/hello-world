@@ -1,3 +1,3 @@
 # hello-world
 First repository on GitHub
-Hello! This is a great guide about GitHub!!! 
+Hello! This is a great guide!!!
